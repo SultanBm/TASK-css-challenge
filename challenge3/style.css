@@ -1,10 +1,27 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
+  overflow: scroll;
+
 }
 .head {
+
+  font-family: "Times New Roman", Times, serif;
+  background-color:rgb(192, 107, 10);
+  text-align: center;
+  position: sticky;
+  top: 0;
+
 }
 
-.row {
+.row{
+  
+  font-family: "Times New Roman", Times, serif;
+  background-color:rgb(219, 217, 57);
+  color: #000000;
+  overflow: scroll;
+  
   /* .row is used in ./index.js not in the html filee */
 }
 
