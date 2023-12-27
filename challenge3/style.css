@@ -18,10 +18,8 @@
 .row{
   
   font-family: "Times New Roman", Times, serif;
-  background-color:rgb(219, 217, 57);
+  background-color:rgb(162, 162, 158);
   color: #000000;
-  overflow: scroll;
-  
   /* .row is used in ./index.js not in the html filee */
 }
 

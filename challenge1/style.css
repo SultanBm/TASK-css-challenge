@@ -4,20 +4,9 @@ body{
     color: #ffff;
 }
 
-.container{
-
-    text-align: center;
-    padding: 30px;
-
+h1{
+    font-family: 'Harry Potter', sans-serif;
 }
-.hp{
-
-   width: 450px; 
-   border-radius: 35px;
-   
-}
-
-.title{
-
-    font-family: "Satisfy", cursive;
+p1{
+    font-family: 'Harry Potter', sans-serif;
 }
