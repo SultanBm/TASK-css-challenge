@@ -4,9 +4,25 @@ body{
     color: #ffff;
 }
 
+.continer {
+text-align: center;
+padding-top:35px;
+margin-bottom: 5%;
+}
+
+.HarryImg{
+
+width: 350px;
+border-radius: 15px;
+}
+
 h1{
+    padding-top:15px;
     font-family: 'Harry Potter', sans-serif;
 }
 p1{
+    font-family: 'Harry Potter', sans-serif;
+}
+p2{
     font-family: 'Harry Potter', sans-serif;
 }
